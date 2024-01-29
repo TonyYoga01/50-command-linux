@@ -118,7 +118,7 @@
 #### 38. `dig` "Menampilkan informasi DNS."
 ![38](Screenshot_38.jpg)
 
-#### 39. `top`
+#### 39. `top` "Digunakan untuk memantau aktivitas sistem secara real-time."
 ![39](Screenshot_39.jpg)
 
 #### 40. `free` "Menampilkan penggunaan memori."
