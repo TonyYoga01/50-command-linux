@@ -3,40 +3,40 @@
 #### 1. `ls` "Menampilkan daftar file dan direktori."
 ![1](Screenshot_1.jpg)
 
-#### 2. `date`
+#### 2. `date` "Menampilkan Tanggal dan Waktu Sekarang."
 ![2](Screenshot_2.jpg)
 
-#### 3. `man systemctl`
+#### 3. `man systemctl` "Digunakan untuk menampilkan manual atau dokumentasi."
 ![3](Screenshot_3.jpg)
 
-#### 4. `sudo su`
+#### 4. `sudo su` "Digunakan untuk beralih ke akun pengguna superuser atau root."
 ![4](Screenshot_4.jpg)
 
-#### 5. `exit`
+#### 5. `exit` "Digunakan untuk menutup terminal."
 ![5](Screenshot_5.jpg)
 
-#### 6. `id`
+#### 6. `id` "Menampilkan informasi tentang identitas pengguna."
 ![6](Screenshot_6.jpg)
 
-#### 7. `ifconfig`
+#### 7. `ifconfig` "Menampilkan informasi antarmuka jaringan."
 ![7](Screenshot_7.jpg)
 
-#### 8. `hostname -I`
+#### 8. `hostname -I` "Digunakan untuk menampilkan alamat IP yang terkait dengan host atau sistem."
 ![8](Screenshot_8.jpg)
 
-#### 9. `whoami`
+#### 9. `whoami` "Menampilkan nama pengguna saat ini."
 ![9](Screenshot_9.jpg)
 
-#### 10. `netstat`
+#### 10. `netstat` "Digunakan untuk menampilkan informasi berbagai aspek koneksi jaringan pada sistem Linux."
 ![10](Screenshot_10.jpg)
 
-#### 11. `ping google.com`
+#### 11. `ping google.com` "Menguji koneksi jaringan."
 ![11](Screenshot_11.jpg)
 
-#### 12. `help`
+#### 12. `help` "Digunakan untuk menampilkan bantuan atau petunjuk singkat terkait dengan perintah yang dijalankan di dalam shell bash."
 ![12](Screenshot_12.jpg)
 
-#### 13. `cd "nama file"`
+#### 13. `cd "nama file"` "Digunakan untuk berpindah dari satu direktori ke direktori lain di dalam sistem file."
 ![13](Screenshot_13.jpg)
 
 #### 14. `cd -`
@@ -117,7 +117,7 @@
 #### 39. `top`
 ![39](Screenshot_39.jpg)
 
-#### 40. `free`
+#### 40. `free` "Menampilkan penggunaan memori."
 ![40](Screenshot_40.jpg)
 
 #### 41. `route`
