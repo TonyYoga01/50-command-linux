@@ -60,3 +60,5 @@
 #### 20. `sudo adduser user`
 ![20](Screenshot_20.jpg)
 
+#### 21. `sudo nano "nama file"`
+![21](Screenshot_21.jpg) ![21_1](Screenshot_21_1.jpg)
