@@ -1,7 +1,7 @@
 # 50 Command Linux menggunakan RedHat
 
 ## Penjelasan tentang command pada linux
-Perintah atau command pada sistem operasi Linux adalah instruksi yang diberikan melalui antarmuka baris perintah (command-line interface) untuk menjalankan tugas-tugas tertentu atau mengakses berbagai fitur sistem. Command pada Linux sangat fleksibel dan memberikan kontrol yang tinggi kepada pengguna untuk berinteraksi dengan sistem.
+<p align="center" >Perintah atau command pada sistem operasi Linux adalah instruksi yang diberikan melalui antarmuka baris perintah (command-line interface) untuk menjalankan tugas-tugas tertentu atau mengakses berbagai fitur sistem. Command pada Linux sangat fleksibel dan memberikan kontrol yang tinggi kepada pengguna untuk berinteraksi dengan sistem.</p>
 
 ## Command
 #### 1. `ls` "Menampilkan daftar file dan direktori."
