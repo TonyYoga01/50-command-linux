@@ -62,3 +62,12 @@
 
 #### 21. `sudo nano "nama file"`
 ![21](Screenshot_21.jpg) ![21_1](Screenshot_21_1.jpg)
+
+#### 22. `pwd`
+![22](Screenshot_22.jpg)
+
+#### 23. `w`
+![23](Screenshot_23.jpg)
+
+#### 24. `sudo gedit "nama file"`
+(![24](Screenshot_24.jpg) ![24_1](Screenshot_24_1.jpg)
