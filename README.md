@@ -39,79 +39,79 @@
 #### 13. `cd "nama file"` "Digunakan untuk berpindah dari satu direktori ke direktori lain di dalam sistem file."
 ![13](Screenshot_13.jpg)
 
-#### 14. `cd -`
+#### 14. `cd -` "Kembali ke direktori induk (parent directory)."
 ![14](Screenshot_14.jpg)
 
-#### 15. `mkdir`
+#### 15. `mkdir` "Membuat direktori baru."
 ![15](Screenshot_15.jpg)
 
-#### 16. `rmdir`
+#### 16. `rmdir` "Menghapus direktori kosong."
 ![16](Screenshot_16.jpg)
 
-#### 17. `ssh student@servera`
+#### 17. `ssh student@servera` "Cara untuk melakukan koneksi ke server dengan menggunakan protokol Secure Shell (SSH)."
 ![17](Screenshot_17.jpg)
 
-#### 18. `lab start logs-preserve`
+#### 18. `lab start logs-preserve` "Untuk mengecek lab system"
 ![18](Screenshot_18.jpg)
 
-#### 19. `sudo -i`
+#### 19. `sudo -i` "Digunakan untuk membuka sesi shell interaktif dengan hak istimewa superuser (root)."
 ![19](Screenshot_19.jpg)
 
-#### 20. `sudo adduser user`
+#### 20. `sudo adduser user` "Digunakan untuk menambahkan pengguna baru ke sistem."
 ![20](Screenshot_20.jpg)
 
-#### 21. `sudo nano "nama file"`
+#### 21. `sudo nano "nama file"` "Digunakan untuk membuka teks editor nano dengan hak akses superuser (root). "
 ![21](Screenshot_21.jpg) ![21_1](Screenshot_21_1.jpg)
 
-#### 22. `pwd`
+#### 22. `pwd` "Menampilkan direktori kerja saat ini."
 ![22](Screenshot_22.jpg)
 
-#### 23. `w`
+#### 23. `w` "Menampilkan informasi pengguna yang sedang masuk dan aktivitas mereka."
 ![23](Screenshot_23.jpg)
 
-#### 24. `sudo gedit "nama file"`
+#### 24. `sudo gedit "nama file"` "Digunakan untuk membuka teks editor Gedit dengan hak akses superuser (root)."
 ![24](Screenshot_24.jpg) ![24_1](Screenshot_24_1.jpg)
 
-#### 25. `sudo systemctl reboot`
+#### 25. `sudo systemctl reboot` "Me-restart sistem."
 ![25](Screenshot_25.jpg) ![25_1](Screenshot_25_1.jpg)
 
-#### 26. `ps`
+#### 26. `ps` "Menampilkan proses yang berjalan."
 ![26](Screenshot_26.jpg)
 
-#### 27. `passwd`
+#### 27. `passwd` "Mengganti kata sandi pengguna."
 ![27](Screenshot_27.jpg)
 
-#### 28. `who`
+#### 28. `who` "Menampilkan pengguna yang sedang masuk."
 ![28](Screenshot_28.jpg)
 
-#### 29. `uptime`
+#### 29. `uptime` "Menampilkan informasi waktu aktif sistem."
 ![29](Screenshot_29.jpg)
 
-#### 30. `crontab`
+#### 30. `crontab` "Menjadwalkan tugas-tugas yang akan dijalankan secara berkala."
 ![30](Screenshot_30.jpg)
 
-#### 31. `lsof`
+#### 31. `lsof` "Menampilkan file yang sedang digunakan oleh proses."
 ![31](Screenshot_31.jpg)
 
-#### 32. `ps aux`
+#### 32. `ps aux` "Menampilkan daftar semua proses yang sedang berjalan."
 ![32](Screenshot_32.jpg)
 
-#### 33. `du`
+#### 33. `du` "Menampilkan penggunaan disk suatu direktori."
 ![33](Screenshot_33.jpg)
 
-#### 34. `locate "nama file"`
+#### 34. `locate "nama file"` "Mencari file dalam database lokal."
 ![34](Screenshot_34.jpg)
 
-#### 35. `df`
+#### 35. `df` "Menampilkan informasi penggunaan disk."
 ![35](Screenshot_35.jpg)
 
-#### 36. `find "nama file"`
+#### 36. `find "nama file"` "Mencari file atau direktori."
 ![36](Screenshot_36.jpg)
 
-#### 37. `cal`
+#### 37. `cal` "Menampilkan kalender."
 ![37](Screenshot_37.jpg)
 
-#### 38. `dig`
+#### 38. `dig` "Menampilkan informasi DNS."
 ![38](Screenshot_38.jpg)
 
 #### 39. `top`
@@ -120,32 +120,32 @@
 #### 40. `free` "Menampilkan penggunaan memori."
 ![40](Screenshot_40.jpg)
 
-#### 41. `route`
+#### 41. `route` "Menampilkan dan mengonfigurasi routing tabel."
 ![41](Screenshot_41.jpg)
 
-#### 42. `history`
+#### 42. `history` "Menampilkan riwayat perintah shell."
 ![42](Screenshot_42.jpg)
 
-#### 43. `useradd -D`
+#### 43. `useradd -D` "Digunakan untuk melihat atau mengonfigurasi default untuk pembuatan pengguna baru di sistem Linux."
 ![43](Screenshot_43.jpg)
 
-#### 44. `killall -V`
+#### 44. `killall -V` "Digunakan untuk menampilkan informasi versi perangkat lunak (version) dari perintah tersebut."
 ![44](Screenshot_44.jpg)
 
-#### 45. `timedatectl`
+#### 45. `timedatectl` "Perintah pada sistem operasi Linux yang digunakan untuk mengonfigurasi dan menampilkan informasi waktu dan tanggal sistem."
 ![45](Screenshot_45.jpg)
 
-#### 46. `timedatectl list-timezones`
+#### 46. `timedatectl list-timezones` "Menampilkan daftar zona waktu yang tersedia."
 ![46](Screenshot_46.jpg)
 
-#### 47. `timedatectl set-timezone "zona waktu yang kalian inginkan"`
+#### 47. `timedatectl set-timezone "zona waktu yang kalian inginkan"` "Mengganti zona waktu sistem dengan yang diinginkan."
 ![47](Screenshot_47.jpg)
 
-#### 48. `fg`
+#### 48. `fg` "Mengembalikan proses dari latar belakang ke depan."
 ![48](Screenshot_48.jpg)
 
-#### 49. `bg`
+#### 49. `bg` "Mengirim proses ke latar belakang."
 ![49](Screenshot_49.jpg)
 
-#### 50. `lsblk`
+#### 50. `lsblk` "Menampilkan informasi blok perangkat penyimpanan."
 ![50](Screenshot_50.jpg)
