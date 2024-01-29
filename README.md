@@ -1,6 +1,6 @@
 # 50 Command Linux menggunakan RedHat
 
-#### 1. `ls`
+#### 1. `ls` "Menampilkan daftar file dan direktori."
 ![1](Screenshot_1.jpg)
 
 #### 2. `date`
@@ -119,3 +119,33 @@
 
 #### 40. `free`
 ![40](Screenshot_40.jpg)
+
+#### 41. `route`
+![41](Screenshot_41.jpg)
+
+#### 42. `history`
+![42](Screenshot_42.jpg)
+
+#### 43. `useradd -D`
+![43](Screenshot_43.jpg)
+
+#### 44. `killall -V`
+![44](Screenshot_44.jpg)
+
+#### 45. `timedatectl`
+![45](Screenshot_45.jpg)
+
+#### 46. `timedatectl list-timezones`
+![46](Screenshot_46.jpg)
+
+#### 47. `timedatectl set-timezone "zona waktu yang kalian inginkan"`
+![47](Screenshot_47.jpg)
+
+#### 48. `fg`
+![48](Screenshot_48.jpg)
+
+#### 49. `bg`
+![49](Screenshot_49.jpg)
+
+#### 50. `lsblk`
+![50](Screenshot_50.jpg)
