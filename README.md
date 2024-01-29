@@ -70,4 +70,52 @@
 ![23](Screenshot_23.jpg)
 
 #### 24. `sudo gedit "nama file"`
-(![24](Screenshot_24.jpg) ![24_1](Screenshot_24_1.jpg)
+![24](Screenshot_24.jpg) ![24_1](Screenshot_24_1.jpg)
+
+#### 25. `sudo systemctl reboot`
+![25](Screenshot_25.jpg) ![25_1](Screenshot_25_1.jpg)
+
+#### 26. `ps`
+![26](Screenshot_26.jpg)
+
+#### 27. `passwd`
+![27](Screenshot_27.jpg)
+
+#### 28. `who`
+![28](Screenshot_28.jpg)
+
+#### 29. `uptime`
+![29](Screenshot_29.jpg)
+
+#### 30. `crontab`
+![30](Screenshot_30.jpg)
+
+#### 31. `lsof`
+![31](Screenshot_31.jpg)
+
+#### 32. `ps aux`
+![32](Screenshot_32.jpg)
+
+#### 33. `du`
+![33](Screenshot_33.jpg)
+
+#### 34. `locate "nama file"`
+![34](Screenshot_34.jpg)
+
+#### 35. `df`
+![35](Screenshot_35.jpg)
+
+#### 36. `find "nama file"`
+![36](Screenshot_36.jpg)
+
+#### 37. `cal`
+![37](Screenshot_37.jpg)
+
+#### 38. `dig`
+![38](Screenshot_38.jpg)
+
+#### 39. `top`
+![39](Screenshot_39.jpg)
+
+#### 40. `free`
+![40](Screenshot_40.jpg)
